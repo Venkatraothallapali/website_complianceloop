@@ -38,17 +38,6 @@ Each domain is positioned as part of a continuous compliance and decision loop â
 
 ---
 
-## What This Project Demonstrates
-
-- Enterprise-grade service architecture thinking  
-- Structured presentation of complex industry ecosystems  
-- AI-aligned compliance positioning  
-- Modular frontend system design  
-- Product-oriented execution mindset  
-
-It demonstrates the ability to translate multi-layered pharmaceutical operations into a clear, scalable digital experience.
-
----
 
 ## Engineering & Product Approach
 
@@ -61,20 +50,6 @@ This platform is built with:
 - Performance-conscious frontend structure  
 
 The emphasis is clarity, credibility, and production realism.
-
----
-
-## Strategic Focus
-
-Compliance Loop is designed around:
-
-- Lifecycle-wide visibility  
-- Compliance continuity  
-- Operational intelligence  
-- AI-supported transformation  
-- Enterprise service integration  
-
-The system reflects how large-scale regulated organizations structure their service ecosystems for long-term growth.
 
 ---
 
